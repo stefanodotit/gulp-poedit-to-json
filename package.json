@@ -1,8 +1,12 @@
 {
   "name": "gulp-poedit-to-json",
-  "description": "Convert poedit file to json",
-  "version": "1.0.0",
+  "description": "Gulp task for convert poedit file to json",
+  "author": "Stefano Tagliabue",
+  "version": "1.0.2",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stefanodotit/gulp-poedit-to-json/issues"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/stefanodotit/gulp-poedit-to-json"
@@ -10,5 +14,13 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-tap": "^0.1.3"
-  }
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "gulpfriendly",
+    "poedit",
+    "json",
+    "convert"
+  ]
 }
