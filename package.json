@@ -1,0 +1,14 @@
+{
+  "name": "gulp-poedit-to-json",
+  "description": "Convert poedit file to json",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stefanodotit/gulp-poedit-to-json"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-tap": "^0.1.3"
+  }
+}
